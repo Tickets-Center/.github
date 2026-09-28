@@ -102,7 +102,7 @@ Keeping the frontend and backend separate allows the platform to support additio
 | Repository                       | Description                    | Technology                 |
 | -------------------------------- | ------------------------------ | -------------------------- |
 | **[Ticket-Center-api](https://github.com/Tickets-Center/Ticket-Center-api)**            | Backend API and business logic | Laravel / PHP              |
-| **Ticket-Center-web**            | Web application                | React / Vite               |
+| **[Ticket-Center-web](https://github.com/Tickets-Center/Ticket-Center-web)**            | Web application                | React / Vite               |
 | **Ticket-Center-mobile**         | Mobile application             | React Native *(planned)*   |
 | **Ticket-Center-infrastructure** | Infrastructure and deployment  | Docker / Linux *(planned)* |
 
